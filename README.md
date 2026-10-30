@@ -102,6 +102,19 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 | **Infrastructure** | Git · Docker · Vercel · Railway · AWS fundamentals · CI/CD |
 | **Security** | Authentication (JWT, HMAC, OAuth) · access control · vulnerability identification · alert triage · incident documentation |
 
+## 📊 By the numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARUSHUGAL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="Arush's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUSHUGAL&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ARUSHUGAL&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=FF7B72&currStreakLabel=3FB950" alt="GitHub streak" />
+
+</div>
+
 ## 📚 Right now
 
 - Junior at ASU, graduating **May 2028** — looking for **Summer 2027 software engineering and security engineering internships**
@@ -111,4 +124,14 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 
 ---
 
+<div align="center">
+
 <sub>Open to backend, platform, AI-infrastructure, and security engineering roles · arushugal@gmail.com</sub>
+
+<br/><br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ARUSHUGAL&color=3FB950&style=flat-square&label=Profile+views)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="" />
