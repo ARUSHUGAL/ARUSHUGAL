@@ -2,9 +2,9 @@
 
 # Arush Ugal
 
-**Backend-leaning software engineer — I build AI systems and take them the whole way.**
+**Backend engineer with a blue-team seat.** I build AI systems — then go looking for the ways they break.
 
-`CS @ Arizona State University '27` · `3.9 GPA` · `Data Science minor` · 📍 Tempe, AZ
+`CS @ Arizona State University '28` · `3.9 GPA` · `Data Science minor` · `Junior SOC Analyst @ ASU Enterprise Technology` · 📍 Tempe, AZ
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arushugal.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://arushugal.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arush_Ugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arush-ugal-b1a8a625a/)
@@ -60,10 +60,20 @@ A journal that reads the entry back to you.
 
 ## 💼 Experience
 
+**Junior SOC Analyst — ASU Enterprise Technology** · *2026 – present*
+
+Selected for ASU's enterprise Security Operations Center work-and-learn program, run with industry partners including CrowdStrike and Google.
+
+- Triage and document security alerts, working phishing, malware, and compromised-account investigations under senior analyst supervision
+- Handle the email-security ticket queue; write incident reports and escalation documentation
+- Progressing through a structured track: SOC fundamentals → live monitoring and triage → automation and SOAR → capstone
+- Pursuing funded industry certifications alongside the program
+
 **Software Engineer Intern — Paytm** · *Jul – Aug 2026*
 
 - Traced user journeys across a **233-file** payments codebase and mapped where failure modes could reach production
-- Wrote **174 unit tests**, surfacing an authentication bypass and several input-validation gaps before release
+- Wrote **174 tests** across payment services, HMAC/JWT authentication, and input validation
+- Found a JWT check that accepted tokens with **no expiry** — a replay risk — and a refund path that allowed amounts **above the order total**
 - Proposed 6 performance improvements, including a Redis caching strategy for hot read paths
 
 **Data Analyst — Global Career Accelerator** · *Aug – Dec 2025*
@@ -80,13 +90,15 @@ A journal that reads the entry back to you.
 | **Frontend** | React 18 · Tailwind CSS · Vite |
 | **Data** | pandas · NumPy · matplotlib · time series · statistical analysis |
 | **Infrastructure** | Git · Docker · Vercel · Railway · AWS fundamentals · CI/CD |
+| **Security** | Authentication (JWT, HMAC, OAuth) · access control · vulnerability identification · alert triage · incident documentation |
 
 ## 📚 Right now
 
-- Junior at ASU, graduating **May 2027** — looking for **Summer 2027 software engineering internships**
+- Junior at ASU, graduating **May 2028** — looking for **Summer 2027 software engineering and security engineering internships**
+- Taking **Information Assurance** this semester
 - Going deeper on backend fundamentals: distributed systems, caching, testing in production
 - Solving NeetCode in public → [neetcode-submissions](https://github.com/ARUSHUGAL/neetcode-submissions)
 
 ---
 
-<sub>Open to backend, platform, and AI-infrastructure roles · arushugal@gmail.com</sub>
+<sub>Open to backend, platform, AI-infrastructure, and security engineering roles · arushugal@gmail.com</sub>
