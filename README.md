@@ -1,10 +1,14 @@
 <div align="center">
 
-# Arush Ugal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Arush%20Ugal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Arush Ugal" />
+
+<a href="https://github.com/ARUSHUGAL">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=700&lines=Junior+SOC+Analyst+%40+ASU+Enterprise+Technology;I+build+AI+systems+%E2%80%94+then+look+for+how+they+break;Python+%C2%B7+TypeScript+%C2%B7+Security+Operations" alt="What I do" />
+</a>
 
 **Backend engineer with a blue-team seat.** I build AI systems — then go looking for the ways they break.
 
-`CS @ Arizona State University '28` · `3.9 GPA` · `Data Science minor` · `Junior SOC Analyst @ ASU Enterprise Technology` · 📍 Tempe, AZ
+`CS @ Arizona State University '29` · `3.9 GPA` · `Data Science minor` · `Junior SOC Analyst @ ASU Enterprise Technology` · 📍 Tempe, AZ
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arushugal.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://arushugal.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arush_Ugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushugal/)
@@ -83,6 +87,12 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 
 ## 🛠 Toolbox
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,react,nodejs,express,firebase,docker,git,aws&theme=dark&perline=11" alt="Python, TypeScript, JavaScript, Java, React, Node.js, Express, Firebase, Docker, Git, AWS" />
+
+</div>
+
 | | |
 |---|---|
 | **Languages** | Python · TypeScript / JavaScript · Java · SQL · C++ |
@@ -94,7 +104,7 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 
 ## 📚 Right now
 
-- Junior at ASU, graduating **May 2028** — looking for **Summer 2027 software engineering and security engineering internships**
+- Junior at ASU, graduating **May 2029** — looking for **Summer 2027 software engineering and security engineering internships**
 - Taking **Information Assurance** this semester
 - Going deeper on backend fundamentals: distributed systems, caching, testing in production
 - Solving NeetCode in public → [neetcode-submissions](https://github.com/ARUSHUGAL/neetcode-submissions)
