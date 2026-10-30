@@ -50,12 +50,12 @@ A reproducible ETL over **10 years of daily Brent Crude prices** (~2,500 trading
 - [Source →](https://github.com/ARUSHUGAL/oilbrentanalysis)
 
 ### HearMeOut — AI mood journal
-`Python` · `Flask` · `PyTorch` · `transformers` · `VaderSentiment`
+`Python` · `Flask` · `transformers` · `PyTorch`
 
 A journal that reads the entry back to you.
 
-- Transformer sentiment scoring with a VaderSentiment lexicon baseline
-- Flask app, runs locally from `python run.py`
+- A Hugging Face `sentiment-analysis` pipeline classifies each entry, then the app returns a supportive reply matched to that mood
+- Flask app with per-mood response templates, run locally with `python run.py`
 - [Source →](https://github.com/ARUSHUGAL/HearMeOut)
 
 ## 💼 Experience
