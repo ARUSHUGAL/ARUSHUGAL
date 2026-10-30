@@ -8,7 +8,7 @@
 
 **Backend engineer with a blue-team seat.** I build AI systems — then go looking for the ways they break.
 
-`CS @ Arizona State University '29` · `3.9 GPA` · `Data Science minor` · `Junior SOC Analyst @ ASU Enterprise Technology` · 📍 Tempe, AZ
+`CS @ Arizona State University '28` · `3.9 GPA` · `Data Science minor` · `Junior SOC Analyst @ ASU Enterprise Technology` · 📍 Tempe, AZ
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arushugal.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://arushugal.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arush_Ugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushugal/)
@@ -104,7 +104,7 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 
 ## 📚 Right now
 
-- Junior at ASU, graduating **May 2029** — looking for **Summer 2027 software engineering and security engineering internships**
+- Junior at ASU, graduating **May 2028** — looking for **Summer 2027 software engineering and security engineering internships**
 - Taking **Information Assurance** this semester
 - Going deeper on backend fundamentals: distributed systems, caching, testing in production
 - Solving NeetCode in public → [neetcode-submissions](https://github.com/ARUSHUGAL/neetcode-submissions)
