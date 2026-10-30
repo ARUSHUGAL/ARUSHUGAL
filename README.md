@@ -102,19 +102,6 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 | **Infrastructure** | Git · Docker · Vercel · Railway · AWS fundamentals · CI/CD |
 | **Security** | Authentication (JWT, HMAC, OAuth) · access control · vulnerability identification · alert triage · incident documentation |
 
-## 📊 By the numbers
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARUSHUGAL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="Arush's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUSHUGAL&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ARUSHUGAL&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=FF7B72&currStreakLabel=3FB950" alt="GitHub streak" />
-
-</div>
-
 ## 📚 Right now
 
 - Junior at ASU, graduating **May 2028** — looking for **Summer 2027 software engineering and security engineering internships**
