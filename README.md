@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Arush%20Ugal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Arush Ugal" />
+<img src="https://raw.githubusercontent.com/ARUSHUGAL/ARUSHUGAL/main/assets/banner.svg" width="100%" alt="Arush Ugal — Security, AI, Full-Stack" />
 
 <a href="https://github.com/ARUSHUGAL">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=700&lines=Junior+SOC+Analyst+%40+ASU+Enterprise+Technology;I+build+AI+systems+%E2%80%94+then+look+for+how+they+break;Python+%C2%B7+TypeScript+%C2%B7+Security+Operations" alt="What I do" />
@@ -10,9 +10,9 @@
 
 `CS @ Arizona State University '28` · `3.9 GPA` · `Data Science minor` · `Junior SOC Analyst @ ASU Enterprise Technology` · 📍 Tempe, AZ
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arushugal.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://arushugal.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arushugal.github.io-1F5C49?style=for-the-badge&logo=githubpages&logoColor=white)](https://arushugal.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arush_Ugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushugal/)
-[![Email](https://img.shields.io/badge/Email-arushugal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushugal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arushugal@gmail.com-C8102E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushugal@gmail.com)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 I like the part of engineering where something stops being a demo. My projects all end in the same place: a real user can open it, break it, and still get a working answer back.
 
-## 🚀 What I've built
+## ⚔️ What I've built
 
 ### HireMeNow — AI recruitment platform
 `React 18` · `TypeScript` · `Node/Express` · `Firebase` · `Socket.io` · `Twilio`
@@ -62,7 +62,7 @@ A journal that reads the entry back to you.
 - Flask app with per-mood response templates, run locally with `python run.py`
 - [Source →](https://github.com/ARUSHUGAL/HearMeOut)
 
-## 💼 Experience
+## 🔥 Experience
 
 **Junior SOC Analyst — ASU Enterprise Technology** · *2026 – present*
 
@@ -85,7 +85,7 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 - Built Python and SQL pipelines over Intel and Grammy Awards datasets
 - Condensed raw data into trend summaries used for program decisions
 
-## 🛠 Toolbox
+## ⚡ Toolbox
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 | **Infrastructure** | Git · Docker · Vercel · Railway · AWS fundamentals · CI/CD |
 | **Security** | Authentication (JWT, HMAC, OAuth) · access control · vulnerability identification · alert triage · incident documentation |
 
-## 📚 Right now
+## 🌊 Right now
 
 - Junior at ASU, graduating **May 2028** — looking for **Summer 2027 software engineering and security engineering internships**
 - Taking **Information Assurance** this semester
@@ -117,8 +117,12 @@ Selected for ASU's enterprise Security Operations Center work-and-learn program,
 
 <br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=ARUSHUGAL&color=3FB950&style=flat-square&label=Profile+views)
+> *“Set your heart ablaze.”* — Kyojuro Rengoku
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ARUSHUGAL&color=C8102E&style=flat-square&label=Profile+views)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/ARUSHUGAL/ARUSHUGAL/main/assets/footer.svg" width="100%" alt="Total Concentration Constant" />
