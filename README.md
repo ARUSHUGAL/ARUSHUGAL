@@ -1,54 +1,128 @@
-# Arush Ugal
+<div align="center">
 
-**Software engineer and SOC analyst.** I build production systems, and I work the security side of them — triaging live alerts in an enterprise SOC and finding the ways software breaks.
+<img src="https://raw.githubusercontent.com/ARUSHUGAL/ARUSHUGAL/main/assets/banner.svg" width="100%" alt="Arush Ugal — Security, AI, Full-Stack" />
 
-CS @ Arizona State University (3.9 GPA, Data Science minor) · Graduating May 2028 · Tempe, AZ
+<a href="https://github.com/ARUSHUGAL">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=700&lines=Junior+SOC+Analyst+%40+ASU+Enterprise+Technology;I+build+AI+systems+%E2%80%94+then+look+for+how+they+break;Python+%C2%B7+TypeScript+%C2%B7+Security+Operations" alt="What I do" />
+</a>
 
-[Portfolio](https://arushugal.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/arushugal/) · arushugal@gmail.com
+**Backend engineer with a blue-team seat.** I build AI systems — then go looking for the ways they break.
 
----
+`CS @ Arizona State University '28` · `3.9 GPA` · `Data Science minor` · `Junior SOC Analyst @ ASU Enterprise Technology` · 📍 Tempe, AZ
 
-## Experience
+[![Portfolio](https://img.shields.io/badge/Portfolio-arushugal.github.io-1F5C49?style=for-the-badge&logo=githubpages&logoColor=white)](https://arushugal.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arush_Ugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushugal/)
+[![Email](https://img.shields.io/badge/Email-arushugal@gmail.com-C8102E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushugal@gmail.com)
 
-**Junior SOC Analyst — ASU Enterprise Technology** · 2026–present
-Enterprise Security Operations Center, a selective work-and-learn program run with CrowdStrike and Google. I triage and document security alerts, investigate phishing, malware, and compromised-account cases under senior analyst supervision, and own the email-security ticket queue. Currently moving into the automation and SOAR phase of the program.
-
-**Software Engineer Intern — Paytm** · Summer 2026
-Worked inside a 233-file merchant payments codebase at one of India's largest fintech companies. Wrote 174 tests across payment services and authentication (HMAC/JWT), and surfaced two real bugs: a JWT check that accepted non-expiring tokens (a replay risk), and a refund path that allowed amounts above the order total. Proposed a Redis caching strategy for hot read paths.
-
-**Data Analyst — Global Career Accelerator** · 2025
-Built Python and SQL pipelines over large datasets, turning messy raw data into trend summaries used for program decisions.
+</div>
 
 ---
 
-## Selected projects
+I like the part of engineering where something stops being a demo. My projects all end in the same place: a real user can open it, break it, and still get a working answer back.
 
-**[HireMeNow](https://github.com/ARUSHUGAL/hiremenow-recruitment-platform)** — AI recruitment platform · *DevLabs Dev Hacks winner*
-Live in production. Extracts 40+ structured fields from a single resume PDF, matches candidates in real time over Socket.io, and runs browser video interviews via Twilio. Built with Firebase Auth and role-based security rules.
-`React` `TypeScript` `Node.js` `Firebase` `Twilio`
+## ⚔️ What I've built
 
-**[Oil Price Analysis](https://github.com/ARUSHUGAL/oilbrentanalysis)** — anomaly-detection pipeline
-A reproducible ETL over 10 years of daily price data (~2,500 points) in under a minute. Rolling statistics with 3σ outlier flagging — the same logic that drives threat detection in a SIEM — correlated against real-world events.
-`Python` `pandas` `NumPy` `matplotlib`
+### HireMeNow — AI recruitment platform
+`React 18` · `TypeScript` · `Node/Express` · `Firebase` · `Socket.io` · `Twilio`
+**Winner — DevLabs Dev Hacks**
 
-**[resume-claude](https://github.com/ARUSHUGAL/resume-claude)** — automation pipeline
-Turns one master resume plus a job posting into a tailored, ATS-scored PDF. Deterministic end to end; used for 20+ applications.
-`Python` `LaTeX`
+Candidates upload one PDF instead of filling out a form; recruiters search them by skills, experience, salary, and location.
 
-**[HearMeOut](https://github.com/ARUSHUGAL/HearMeOut)** — AI mood journal
-Flask backend running a Hugging Face sentiment pipeline per entry, with mood-matched responses.
-`Python` `Flask` `transformers`
+- Extracts **40+ structured fields** from unstructured resume PDFs, including malformed and scanned files
+- Real-time compatibility scoring over **Socket.io**, filtered across five dimensions
+- Browser-based video interviews via **Twilio**, with separate candidate and recruiter access
+- Firebase Auth, Firestore, and Storage with role-based security rules
+- [Source →](https://github.com/ARUSHUGAL/hiremenow-recruitment-platform)
+
+### resume-claude — ATS-scored resume pipeline
+`Python` · `LaTeX` · `XeLaTeX`
+
+Every application wants a different resume, and hand-editing LaTeX for each one wastes an evening. This takes one master resume plus a job posting and emits a tailored PDF — selecting relevant experience, rebuilding the LaTeX, compiling it, and scoring the result against the posting's keywords.
+
+- Used for **20+ internship applications** this cycle
+- Deterministic: the same posting always produces the same resume
+- [Source →](https://github.com/ARUSHUGAL/resume-claude)
+
+### Oil price analysis — quantitative pipeline
+`Python` · `pandas` · `NumPy` · `matplotlib` · `yfinance`
+
+A reproducible ETL over **10 years of daily Brent Crude prices** (~2,500 trading days), end to end in under a minute.
+
+- Rolling 30-day mean and standard deviation with **3σ anomaly flagging** for volatility spikes
+- Correlates flagged moves against macro events — the 2020 demand collapse, the 2022 supply shock
+- Multi-panel dashboard: price trend, 90-day moving average, 30-day rolling volatility, annotated events
+- [Source →](https://github.com/ARUSHUGAL/oilbrentanalysis)
+
+### HearMeOut — AI mood journal
+`Python` · `Flask` · `transformers` · `PyTorch`
+
+A journal that reads the entry back to you.
+
+- A Hugging Face `sentiment-analysis` pipeline classifies each entry, then the app returns a supportive reply matched to that mood
+- Flask app with per-mood response templates, run locally with `python run.py`
+- [Source →](https://github.com/ARUSHUGAL/HearMeOut)
+
+## 🔥 Experience
+
+**Junior SOC Analyst — ASU Enterprise Technology** · *2026 – present*
+
+Selected for ASU's enterprise Security Operations Center work-and-learn program, run with industry partners including CrowdStrike and Google.
+
+- Triage and document security alerts, working phishing, malware, and compromised-account investigations under senior analyst supervision
+- Handle the email-security ticket queue; write incident reports and escalation documentation
+- Progressing through a structured track: SOC fundamentals → live monitoring and triage → automation and SOAR → capstone
+- Pursuing funded industry certifications alongside the program
+
+**Software Engineer Intern — Paytm** · *Jul – Aug 2026*
+
+- Traced user journeys across a **233-file** payments codebase and mapped where failure modes could reach production
+- Wrote **174 tests** across payment services, HMAC/JWT authentication, and input validation
+- Found a JWT check that accepted tokens with **no expiry** — a replay risk — and a refund path that allowed amounts **above the order total**
+- Proposed 6 performance improvements, including a Redis caching strategy for hot read paths
+
+**Data Analyst — Global Career Accelerator** · *Aug – Dec 2025*
+
+- Built Python and SQL pipelines over Intel and Grammy Awards datasets
+- Condensed raw data into trend summaries used for program decisions
+
+## ⚡ Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,react,nodejs,express,firebase,docker,git,aws&theme=dark&perline=11" alt="Python, TypeScript, JavaScript, Java, React, Node.js, Express, Firebase, Docker, Git, AWS" />
+
+</div>
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript / JavaScript · Java · SQL · C++ |
+| **Backend** | Node.js · Express · REST · Socket.io · Firebase (Firestore, Auth, Storage) |
+| **Frontend** | React 18 · Tailwind CSS · Vite |
+| **Data** | pandas · NumPy · matplotlib · time series · statistical analysis |
+| **Infrastructure** | Git · Docker · Vercel · Railway · AWS fundamentals · CI/CD |
+| **Security** | Authentication (JWT, HMAC, OAuth) · access control · vulnerability identification · alert triage · incident documentation |
+
+## 🌊 Right now
+
+- Junior at ASU, graduating **May 2028** — looking for **Summer 2027 software engineering and security engineering internships**
+- Taking **Information Assurance** this semester
+- Going deeper on backend fundamentals: distributed systems, caching, testing in production
+- Solving NeetCode in public → [neetcode-submissions](https://github.com/ARUSHUGAL/neetcode-submissions)
 
 ---
 
-## Toolbox
+<div align="center">
 
-**Languages** Python · TypeScript / JavaScript · SQL · Java · C++
-**Backend & data** Node.js · Express · Firebase · REST · pandas · NumPy · statistical analysis
-**Frontend** React · Tailwind CSS · Vite
-**Security** Alert triage · incident response · phishing & malware investigation · email security · log analysis · anomaly detection · authentication (JWT, HMAC, OAuth)
-**Infrastructure** Git · Docker · Linux · AWS · CI/CD
+<sub>Open to backend, platform, AI-infrastructure, and security engineering roles · arushugal@gmail.com</sub>
 
----
+<br/><br/>
 
-Open to Summer 2027 internships in software engineering and security engineering.
+> *“Set your heart ablaze.”* — Kyojuro Rengoku
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ARUSHUGAL&color=C8102E&style=flat-square&label=Profile+views)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/ARUSHUGAL/ARUSHUGAL/main/assets/footer.svg" width="100%" alt="Total Concentration Constant" />
